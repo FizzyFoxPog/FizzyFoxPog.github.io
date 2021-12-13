@@ -1,0 +1,47 @@
+@font-face {
+  src: url(Barlow-Thin.ttf);
+  font-family: Barlow-Thin;
+}
+
+@font-face {
+  src: url(MPLUS-Thin.ttf);
+  font-family: MPLUS;
+}
+
+@font-face {
+  src: url(MPLUS1p-Bold.ttf);
+  font-family: MPLUSThicc;
+}
+
+.about {
+  font-family: MPLUS;
+}
+
+.header {
+  font-family: MPLUS;
+}
+
+.header2BOI {
+  font-family: MPLUS;
+}
+
+.FizzyFox {
+  font-family: MPLUSThicc;
+}
+
+.latestvids {
+  font-family: MPLUS;
+
+}
+
+body {
+  background-color: rgb(25, 255, 255);
+}
+
+* {
+  text-align: center;
+}
+
+footer {
+    font-family: MPLUS;
+}
