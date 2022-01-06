@@ -1,18 +1,3 @@
-@font-face {
-  src: url("Fonts/Barlow-Thin.ttf"); 
-  font-family: Barlow-Thin;
-}
-
-@font-face {
-  src: url("Fonts/MPLUS-Thin.ttf");
-  font-family: MPLUS;
-}
-
-@font-face {
-  src: url("Fonts/MPLUS1p-Bold.ttf");
-  font-family: MPLUSThicc;
-}
-
 .about {
   font-family: MPLUS;
 }
