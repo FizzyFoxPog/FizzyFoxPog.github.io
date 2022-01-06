@@ -1,13 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@100&display=swap');
+
 .about {
-  font-family: MPLUS;
+  font-family: 'M PLUS 1p', sans-serif;
 }
 
 .header {
-  font-family: MPLUS;
+  font-family: 'M PLUS 1p', sans-serif;
 }
 
 .header2BOI {
-  font-family: MPLUS;
+  font-family: 'M PLUS 1p', sans-serif;
 }
 
 .FizzyFox {
